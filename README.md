@@ -8,6 +8,10 @@ Following will be a walkthrough of a simulated data analysis using pibdfc.
 
 # Simulating the Data
 
+```
+run('create_gaussian_simset.m');
+```
+
 # Setting the Prior Hyperparameters
 
 # Fitting the Model
